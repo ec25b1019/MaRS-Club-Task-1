@@ -54,3 +54,21 @@ Code Explanation:
     reactTime: The duration, in milliseconds, that the user took to respond to the visual stimulus.
     
   By resetting ResetTime to the current millis() after each press, you ensure that the randDelay math remains accurate for every subsequent round without the need for a hardware reset.
+
+Section B:
+
+My project explanation, project working, circuit diagram and project code are in the drive link below for each project
+
+Intelligent Chair (Class 8): https://drive.google.com/drive/folders/1Jpv-rpPQjslzU2u9jCswwhzUg15J-jne?usp=drive_link
+
+Bluetooth Controlled Car (Class 9): https://drive.google.com/drive/folders/1_bnTGwDPOmcuiDVMloTWwCPVQApZXFPn?usp=drive_link
+
+Cato Fridge (Class 10): https://drive.google.com/drive/folders/1R8Tk3M1BAQmTwtf1vs8S-6nrIa8-0Bij?usp=drive_link
+
+Vibro Helmet (Class 11): https://drive.google.com/drive/folders/1bJATZ0N7TdYki-6X5l_V0Xiz6GZY_q-H?usp=drive_link
+
+Drip Guardia (Class 12 and 1st year): https://drive.google.com/drive/folders/1rZQWlxRy2ICp64Z1005-QAVTfmgBwwhV?usp=drive_link
+
+Note: The Cato Fridge project was made by me, and the video was presented by my younger brother (Hariniranjan).
+
+Access the whole database: https://drive.google.com/drive/folders/1yPNzVDgoflroxacZdoSrxCk4XfXw2So_?usp=drive_link
