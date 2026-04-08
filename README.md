@@ -7,6 +7,8 @@ Q1. Blinking LED with different time intervals
 
 Tinkercad Link: https://www.tinkercad.com/things/dIMJeyZBf6b-blinking-led-with-different-time-intervals
 
+Simulation Video: https://drive.google.com/file/d/1w_D2JKDd6OA6LOLTS_D7K_0FN7iIeZ-D/view?usp=drive_link
+
 Code Explanation:
 
   This code uses a non-blocking approach to handle multiple timers simultaneously without using the delay() function, which would pause the entire program. By calling three distinct functions (led1(), led2(), and led3()) within the main loop(), the Arduino repeatedly checks whether the required time (500ms, 1000ms, 1500ms) has elapsed for each LED. When a condition is met, only that specific LED's state is toggled, and its "previous" timestamp is updated, allowing all three LEDs to blink at their own rates without interfering with one another.
@@ -14,6 +16,8 @@ Code Explanation:
 Q2. Controlling the colour of the RGB LED and the blinking speed of another LED with a potentiometer
 
 Tinkercad Link: https://www.tinkercad.com/things/7FZpUgGDVXB-controlling-rgb-led-and-blinking-of-led-with-potentiometer
+
+Simulation Video: https://drive.google.com/file/d/1RQZdadkt6b98mYKpTwWv3ZQO_Zy0eZYw/view?usp=drive_link
 
 Code Explanation:
 
@@ -32,6 +36,8 @@ Code Explanation:
 Q3. Build a reaction time tester
 
 Tinkercad Link: https://www.tinkercad.com/things/81tj6ZhuMAq-build-a-reaction-time-tester
+
+Simulation Video: https://drive.google.com/file/d/1pASxDMftUrTdcgj6ryTawQ5kyXHgtUst/view?usp=drive_link
 
 Code Explanation:
 
